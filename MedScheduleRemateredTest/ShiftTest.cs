@@ -45,7 +45,7 @@ namespace MedScheduleRemateredTest
             Nurse n22 = new Nurse(5, "Dalai Lama");
             ds1.AddNurse(n11);
             ds1.AddNurse(n22);
-            //act NOTHING TO ACT UPON SINCE ITS A VOID METHOD
+            //act 
             //assert
             Assert.IsTrue(ds1.FullShift);
         }
@@ -56,7 +56,7 @@ namespace MedScheduleRemateredTest
             DayShift ds2 = new DayShift(DateTime.Now);
             Nurse hitler = new Nurse(1945, "Hitler");
             ds2.AddNurse(hitler);
-            //act NOTHING TO ACT UPON SINCE ITS A VOID METHOD
+            //act 
             //assert
             Assert.IsFalse(ds2.FullShift);
         }

@@ -33,16 +33,12 @@ namespace MedScheduleRemateredTest
             n1.IncrementShiftCounter();
             n1.IncrementShiftCounter();
             n1.IncrementShiftCounter();
-            n1.IncrementShiftCounter();
-            n1.IncrementShiftCounter();
-            n1.IncrementShiftCounter();
             //act
             n1.ResetShiftCounter();
             //Assert
             int actual = n1.WorkCounter;
             int expected = 0;
             Assert.AreEqual(expected, actual);
-            
         }
     }
 }

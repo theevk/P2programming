@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1008]C:\Users\Yolomancer\Documents\GitHub\P2programming\MedScheduleRemateredTest\bin\Debug\MedScheduleRemateredTest.dll</TopNode>
+  <SelectedNode>[0-1008]C:\Users\Yolomancer\Documents\GitHub\P2programming\MedScheduleRemateredTest\bin\Debug\MedScheduleRemateredTest.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1008]C:\Users\Yolomancer\Documents\GitHub\P2programming\MedScheduleRemateredTest\bin\Debug\MedScheduleRemateredTest.dll" Expanded="true" />
+    <Node UniqueName="[0-1009]MedScheduleRemateredTest" Expanded="true" />
+    <Node UniqueName="[0-1000]MedScheduleRemateredTest.NurseTest" Expanded="true" />
+    <Node UniqueName="[0-1003]MedScheduleRemateredTest.ShiftTest" Expanded="true" />
+  </Nodes>
+</VisualState>

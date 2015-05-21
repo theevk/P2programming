@@ -24,3 +24,4 @@ C:\Users\Yolomancer\Documents\GitHub\P2programming\MedScheduleRemastered\obj\Deb
 C:\Users\Yolomancer\Documents\GitHub\P2programming\MedScheduleRemastered\bin\Debug\NurseCatalogue.txt
 C:\Users\Yolomancer\Documents\GitHub\P2programming\MedScheduleRemastered\bin\Debug\MedScheduleRemastered.exe
 C:\Users\Yolomancer\Documents\GitHub\P2programming\MedScheduleRemastered\bin\Debug\MedScheduleRemastered.pdb
+C:\Users\Yolomancer\Documents\GitHub\P2programming\MedScheduleRemastered\obj\Debug\MedScheduleRemastered.csprojResolveAssemblyReference.cache
