@@ -18,3 +18,9 @@ C:\Users\Theevaahar\Downloads\MedScheduleRemastered-master\MedScheduleRemastered
 C:\Users\Theevaahar\Downloads\MedScheduleRemastered-master\MedScheduleRemastered\bin\Debug\MedScheduleRemastered.exe
 C:\Users\Theevaahar\Downloads\MedScheduleRemastered-master\MedScheduleRemastered\bin\Debug\MedScheduleRemastered.pdb
 C:\Users\Theevaahar\Downloads\MedScheduleRemastered-master\MedScheduleRemastered\obj\Debug\MedScheduleRemastered.csprojResolveAssemblyReference.cache
+C:\Users\Yolomancer\Documents\GitHub\P2programming\MedScheduleRemastered\bin\Debug\MedScheduleRemastered.exe.config
+C:\Users\Yolomancer\Documents\GitHub\P2programming\MedScheduleRemastered\obj\Debug\MedScheduleRemastered.exe
+C:\Users\Yolomancer\Documents\GitHub\P2programming\MedScheduleRemastered\obj\Debug\MedScheduleRemastered.pdb
+C:\Users\Yolomancer\Documents\GitHub\P2programming\MedScheduleRemastered\bin\Debug\NurseCatalogue.txt
+C:\Users\Yolomancer\Documents\GitHub\P2programming\MedScheduleRemastered\bin\Debug\MedScheduleRemastered.exe
+C:\Users\Yolomancer\Documents\GitHub\P2programming\MedScheduleRemastered\bin\Debug\MedScheduleRemastered.pdb

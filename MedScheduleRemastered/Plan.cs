@@ -197,7 +197,7 @@ namespace MedScheduleRemastered
             return bestPlan;
         }
 
-        private void ResetNurseWorkCounters()
+        public void ResetNurseWorkCounters()
         {
             foreach(Nurse nurse in _nurseDataBase)
                 nurse.ResetShiftCounter();

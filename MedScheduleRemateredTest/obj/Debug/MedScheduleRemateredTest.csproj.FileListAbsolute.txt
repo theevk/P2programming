@@ -1,0 +1,10 @@
+C:\Users\Yolomancer\Documents\GitHub\P2programming\MedScheduleRemateredTest\bin\Debug\NurseCatalogue.txt
+C:\Users\Yolomancer\Documents\GitHub\P2programming\MedScheduleRemateredTest\bin\Debug\MedScheduleRemateredTest.dll
+C:\Users\Yolomancer\Documents\GitHub\P2programming\MedScheduleRemateredTest\bin\Debug\MedScheduleRemateredTest.pdb
+C:\Users\Yolomancer\Documents\GitHub\P2programming\MedScheduleRemateredTest\bin\Debug\MedScheduleRemastered.exe
+C:\Users\Yolomancer\Documents\GitHub\P2programming\MedScheduleRemateredTest\bin\Debug\nunit.framework.dll
+C:\Users\Yolomancer\Documents\GitHub\P2programming\MedScheduleRemateredTest\bin\Debug\MedScheduleRemastered.pdb
+C:\Users\Yolomancer\Documents\GitHub\P2programming\MedScheduleRemateredTest\bin\Debug\nunit.framework.xml
+C:\Users\Yolomancer\Documents\GitHub\P2programming\MedScheduleRemateredTest\obj\Debug\MedScheduleRemateredTest.csprojResolveAssemblyReference.cache
+C:\Users\Yolomancer\Documents\GitHub\P2programming\MedScheduleRemateredTest\obj\Debug\MedScheduleRemateredTest.dll
+C:\Users\Yolomancer\Documents\GitHub\P2programming\MedScheduleRemateredTest\obj\Debug\MedScheduleRemateredTest.pdb

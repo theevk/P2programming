@@ -11,7 +11,7 @@ namespace MedScheduleRemastered
         static void Main(string[] args)
         {
             Plan p = new Plan(5);
-            Plan p2 = p.SuperPlan(100000,10);
+            Plan p2 = p.SuperPlan(10000,10);
             p2.Printplan();
             Console.ReadKey();
 

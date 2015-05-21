@@ -40,8 +40,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="NurseTest.cs" />
+    <Compile Include="PlanTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ShiftTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MedScheduleRemastered\MedScheduleRemastered.csproj">
