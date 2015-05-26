@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace MedScheduleRemastered
 {
+    /* Klassens formål er at definere en dagvagt */
     public class NightShift : Shift
     {
-        public NightShift(DateTime d) : base(d)
+        public NightShift(DateTime d) : base(d) //antallet af sygeplejersker der kan være på vagten defineres til at være 4
         {
             _nursesPerShift = 4;
         }

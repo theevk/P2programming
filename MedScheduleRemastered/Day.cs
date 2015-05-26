@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace MedScheduleRemastered
 {
+    /* Har til formål at oprette en dag, som udgøres af en dag-, aften-, nat- og frivagt */
     public class Day
     {
         private List<Shift> _fullDay = new List<Shift>();
